@@ -8,4 +8,4 @@ it should work with most executors
 * KRNL
 * WeAreDevs API-based executors
 * EasyXploits API-based executors
-# [Get the script:](https://raw.githubusercontent.com/Xoverse/RobloxHub/main/script.lua)
+# [Get the script](https://raw.githubusercontent.com/Xoverse/RobloxHub/main/script.lua)
